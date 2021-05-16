@@ -7,7 +7,7 @@ I have 2+ years on experience in different fields such as full stack development
 in learning how to train machine learning models 🤖 ,deep learning 🕸️,big data,NLP 🧠.
 Apart from that i enjoy doing workouts 🏅 and cooking new dishes 🍛.
 
-img align="right" alt="GIF" src="https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" width="400" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26xBwEevU6tBgktHy/giphy.gif" width="400" height="320" />
 
 My Technical Stack:
 
