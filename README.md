@@ -16,7 +16,7 @@ Apart from that i enjoy doing workouts 🏅 and cooking new dishes 🍛.
     <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif"  height="90" width="90" />
   </a>
   <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614961290202/nWwYCFQEU.gif"  height="70" />
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614961290202/nWwYCFQEU.gif"  height="90" />
   </a>
  </p>
 
