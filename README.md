@@ -54,6 +54,7 @@ Devops:
     <img src="https://thumbs.gfycat.com/PoliticalMindlessBanteng-max-1mb.gif"  height="90" width="90" />
   </a>
 </p>
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
 
 
 <p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=SushantSriv&show_icons=true&theme=radical" alt="SushantSriv" />
