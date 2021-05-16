@@ -31,11 +31,17 @@ Frontend+Backend Stack:
   <a href="https://www.w3schools.com/sql/" target="_blank" >
     <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif"  height="90" width="110" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" >
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614961290202/nWwYCFQEU.gif"  height="90" width="90" />
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://morganwebtechnology.com/frontend1/page/design.gif"  height="90" width="90" />
   </a>
   <a href="https://reactjs.org/" target="_blank" >
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1614961290202/nWwYCFQEU.gif"  height="90" width="90" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" >
+    <img src="https://miro.medium.com/max/512/1*6fzxZyDPD_8RRsmHpQr-vw.gif"  height="90" width="90" />
+  </a>
+   <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://monophy.com/media/wgFWLRiND4bkyYR4IN/monophy.gif"  height="90" width="90" />
   </a>
  </p>
 
