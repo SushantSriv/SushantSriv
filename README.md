@@ -43,6 +43,18 @@ Frontend+Backend Stack:
    <a href="https://www.mongodb.com/" target="_blank" >
     <img src="https://monophy.com/media/wgFWLRiND4bkyYR4IN/monophy.gif"  height="90" width="90" />
   </a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" >
+    <img src="https://brandeps.com/logo-download/F/Flask-logo-vector-01.svg"  height="90" width="90" />
+  </a>
  </p>
 
+Devops:
+<p float="left
+<a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://thumbs.gfycat.com/PoliticalMindlessBanteng-max-1mb.gif"  height="90" width="90" />
+  </a>
+</p>
+
+
+<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=SushantSriv&show_icons=true&theme=radical" alt="SushantSriv" />
 
