@@ -1,6 +1,6 @@
 Hi There 👋, I’m Sushant Srivastava !
 
-I am Sushant ,a passionate student and former creative software engineer 💻
+I am Sushant ,a passionate student and former software engineer 💻
 
 I ❤️ to explore data and believe that data tells us more than numbers and it helps us understand our users and their desires.
 I have 2+ years on experience in different fields such as full stack development,Devops and Quality Assurance,I am also engaged 
