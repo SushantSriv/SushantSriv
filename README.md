@@ -1,4 +1,4 @@
-Hi There 👋, I’m Sushant Srivastava !
+Hi There 👋
 
 I am Sushant ,a passionate student and former software engineer 💻
 
