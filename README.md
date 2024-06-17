@@ -48,13 +48,7 @@ Frontend+Backend Stack:
   </a>
  </p>
 
-Devops:
-<p float="left
-<a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://thumbs.gfycat.com/PoliticalMindlessBanteng-max-1mb.gif"  height="90" width="90" />
-  </a>
-</p>
-                                                                                                     
+                                                                                             
                                                                                                      
                                                                                                      
 
