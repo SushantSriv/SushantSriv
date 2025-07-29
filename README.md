@@ -1,6 +1,6 @@
 # Hi There 👋
 
-I’m **Sushant Srivastava**, an IT Consultant and Data Enthusiast based in Norway since 2022. 💻🇳🇴
+I’m **Sushant Srivastava**, an IT Consultant and Data Enthusiast based in Norway since 2022. 💻
 
 With over 4 years of hands-on experience, I design and deliver end-to-end solutions across:
 - **Systems Engineering & CAD Automation**: Building C#/.NET & PML plug-ins for Aveva E3D, WPF tooling, and engineering workflow automation.  
