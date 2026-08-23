@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:0083B0,100:0F2027&height=230&section=header&text=Sushant%20Srivastava&fontSize=54&fontColor=FFFFFF&fontAlignY=33&animation=fadeIn&desc=IT%20Consultant%20%C2%B7%20AI%20%26%20Data%20Engineering%20%C2%B7%20Oslo,%20Norway&descAlign=50&descAlignY=52&descSize=18" width="100%" alt="Sushant Srivastava" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,50:0083B0,100:0F2027&height=230&section=header&text=Sushant%20Srivastava&fontSize=54&fontColor=FFFFFF&fontAlignY=33&animation=fadeIn&desc=IT%20Consultant%20%C2%B7%20Applied%20AI%20%C2%B7%20Data%20Engineering%20%C2%B7%20Oslo,%20Norway&descAlign=50&descAlignY=52&descSize=18" width="100%" alt="Sushant Srivastava" />
 
 <a href="https://sushantsriv.github.io/portfolio/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=700&color=00B4DB&center=true&vCenter=true&width=820&height=64&lines=Hei!+Jeg+heter+Sushant+-+velkommen+innom.;IT+Consultant+%40+Aibel%2C+basert+i+Oslo+siden+2022;I+turn+messy+data+into+decisions+people+trust;LLMs+%C2%B7+Agentic+AI+%C2%B7+MLOps+%C2%B7+Power+BI+%C2%B7+React;Currently+exploring+agentic+orchestration" alt="Typing intro" />
@@ -23,7 +23,7 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" alt="" />
 
-🇳🇴 Based in **Oslo** since 2022, with **4+ years** of building end-to-end tech that actually ships.
+<img src="https://flagcdn.com/24x18/no.png" width="20" alt="Norway" /> &nbsp;Based in **Oslo** since 2022, with **4+ years** of building end-to-end tech that actually ships.
 I like the whole path — from a messy CSV to a model, to an API, to something a human can click.
 
 - 🏗️ &nbsp;**IT Consultant @ Aibel** — internal tooling in **C#, WPF & PowerShell**, working shoulder to shoulder with engineers to automate the boring parts.
@@ -47,7 +47,7 @@ I like the whole path — from a messy CSV to a model, to an API, to something a
 
 <h3 align="center">🗣️ Norsk uttale</h3>
 <p align="center">
-  <a href="https://norwegian-pronunciation-app.vercel.app"><img src="https://img.shields.io/badge/%E2%96%B6_Live_demo-00B4DB?style=for-the-badge&logoColor=white" alt="Live demo" /></a>
+  <a href="https://sushantsriv.github.io/norwegian-pronunciation-app/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_demo-00B4DB?style=for-the-badge&logoColor=white" alt="Live demo" /></a>
   <a href="https://github.com/SushantSriv/norwegian-pronunciation-app"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 </p>
 <p align="center"><b>Say Norwegian out loud, see your intonation phoneme by phoneme.</b><br/>
