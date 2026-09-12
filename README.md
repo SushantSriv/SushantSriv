@@ -87,6 +87,7 @@ Traffic-accident risk predicted per <i>kommune</i> and painted onto an interacti
 
 <h3 align="center">🏠 360° Home Tour</h3>
 <p align="center">
+  <a href="https://sushantsriv.github.io/3d-home-view/"><img src="https://img.shields.io/badge/%E2%96%B6_Live_demo-00B4DB?style=for-the-badge&logoColor=white" alt="Live demo" /></a>
   <a href="https://github.com/SushantSriv/3d-home-view"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code" /></a>
 </p>
 <p align="center"><b>One slow phone pan per room → one shareable 360° tour.</b><br/>
