@@ -23,7 +23,7 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" alt="" />
 
-<img src="https://flagcdn.com/24x18/no.png" width="20" alt="Norway" /> &nbsp;Based in **Drammen**, with **4+ years** of building end-to-end tech that actually ships.
+<img src="https://flagcdn.com/24x18/no.png" width="20" alt="Norway" /> &nbsp;Based in **Drammen**, with **6+ years** of building end-to-end tech that actually ships.
 I like the whole path — from a messy CSV to a model, to an API, to something a human can click.
 
 - 🏗️ &nbsp;**IT Consultant @ Aibel** — internal tooling in **C#, WPF & PowerShell**, working shoulder to shoulder with engineers to automate the boring parts.
